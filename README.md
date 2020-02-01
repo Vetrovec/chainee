@@ -1,5 +1,5 @@
 <div align="left">
-  <img src="https://raw.githubusercontent.com/Vetrovec/chainee/master/artwork/chainee.png" alt="chainee">
+  <img src="https://raw.githubusercontent.com/Vetrovec/chainee/master/artwork/chainee.png" width="350" alt="chainee">
 </div>
 
 # chainee: Blockchain implementation
