@@ -1,3 +1,7 @@
+<div align="left">
+  <img src="https://raw.githubusercontent.com/Vetrovec/chainee/master/artwork/chainee.png" alt="chainee">
+</div>
+
 # chainee: Blockchain implementation
 
 Chainee is semester programming task turned into passion project. It is not overbloated with unnecessary dependencies. Strong inspiration for this project was Ethereum.
